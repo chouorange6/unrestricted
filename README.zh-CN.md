@@ -39,7 +39,7 @@
 
 **原版不允许倒卖。** 收费、当货挂群，一律不行。二开可以，但**必须署名**，写明来源仓库：[YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)。不署名、隐瞒来源、改头换面据为己有，作者一律当对家。
 
-作者个人频道：[t.me/LLM_PoJia](https://t.me/LLM_PoJia)。有话、有更新，会发在那里。
+作者个人频道：[t.me/](https://t.me/)。有话、有更新，会发在那里。
 
 ## 目录
 
